@@ -1,6 +1,9 @@
 ## Persistence of Vision
 
 ![Circuit Diagram](resources/attiny85_pov.png)
+![pov01](01.jpg)
+![pov02](02.jpg)
+![pov03](03.jpg)
 
 
 ### Set the clock speed on the ATTiny85
